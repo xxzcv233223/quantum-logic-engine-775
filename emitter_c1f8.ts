@@ -1,0 +1,1 @@
+const service_c1f8 = <T>(args: T): T => { return args; };
